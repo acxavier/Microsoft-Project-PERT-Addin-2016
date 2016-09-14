@@ -1,0 +1,25 @@
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.dll.config
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.pdb
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.dll.manifest
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.vsto
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.Common.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.Common.xml
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project_PERT_Add_in_2016.frmCalcularPERT.resources
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project_PERT_Add_in_2016.frmNiveisPERT.resources
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project_PERT_Add_in_2016.frmSobre.resources
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project_PERT_Add_in_2016.Properties.Resources.resources
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project_PERT_Add_in_2016.Ribbon.resources
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project 2016 PERT Add-in.csproj.GenerateResource.Cache
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project PERT Add-in 2016.dll
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project PERT Add-in 2016.pdb
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.dll.CodeAnalysisLog.xml
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\bin\Release\Project PERT Add-in 2016.dll.lastcodeanalysissucceeded
+C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Release\Project 2016 PERT Add-in.csprojResolveAssemblyReference.cache
