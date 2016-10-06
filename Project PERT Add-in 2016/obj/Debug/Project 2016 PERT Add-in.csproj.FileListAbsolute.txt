@@ -21,3 +21,26 @@ C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\
 C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Debug\Project 2016 PERT Add-in.csproj.GenerateResource.Cache
 C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Debug\Project PERT Add-in 2016.dll
 C:\Dev\Project PERT Addin\Project 2016 PERT Add-in\Project PERT Add-in 2016\obj\Debug\Project PERT Add-in 2016.pdb
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Project PERT Add-in 2016.dll.config
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Project PERT Add-in 2016.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Project PERT Add-in 2016.pdb
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Project PERT Add-in 2016.dll.manifest
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Project PERT Add-in 2016.vsto
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project 2016 PERT Add-in.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project_PERT_Add_in_2016.frmCalcularPERT.resources
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project_PERT_Add_in_2016.frmNiveisPERT.resources
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project_PERT_Add_in_2016.frmSobre.resources
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project_PERT_Add_in_2016.Properties.Resources.resources
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project_PERT_Add_in_2016.Ribbon.resources
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project 2016 PERT Add-in.csproj.GenerateResource.Cache
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project PERT Add-in 2016.dll
+C:\Users\Andre\Documents\GitHub\Project-PERT-Addin-2016\Project PERT Add-in 2016\obj\Debug\Project PERT Add-in 2016.pdb

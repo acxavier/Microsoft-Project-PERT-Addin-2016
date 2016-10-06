@@ -38,7 +38,7 @@
     <PublishUrl>c:\temp\PERT Addin 2016\</PublishUrl>
     <InstallUrl />
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.4</ApplicationVersion>
+    <ApplicationVersion>1.6.0.5</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>7</UpdateInterval>
@@ -226,6 +226,7 @@
     </EmbeddedResource>
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
+    <None Include="Project 2016 PERT Add-in_1_TemporaryKey.pfx" />
     <None Include="Project 2016 PERT Add-in_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -266,10 +267,10 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Project 2016 PERT Add-in_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>Project 2016 PERT Add-in_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>914D18F7C181412A0D5BB13B3C49D6A519BCEF7D</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>5EAB6E36566EA9E27752FD530E8B8C27F63E8266</ManifestCertificateThumbprint>
   </PropertyGroup>
   <!-- Include the build rules for a C# project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
